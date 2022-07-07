@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rekapan-mimpi.github.io/setan-2/sitemap.xml
